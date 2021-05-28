@@ -11,4 +11,5 @@ More specifically, the following folders contain parts of the methylation analys
 * methylation_calling
 * multi_to_single_fast5_mapped_ids  
 
-This analysis was lead by Dr. Benjamin Schwessinger with contributions by Ms. Jamila Nasim. 
+In regards to the preprint and journal publications please follow the following contributions for these specific analyses.
+This analysis was lead by Dr. Benjamin Schwessinger with contributions by Ms. Jamila Nasim. DNA sequences was performed by Dr. Ashley Jones with contributions by Ms. Jamila Nasim. 
